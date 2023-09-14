@@ -1,1 +1,7 @@
 .gitattributes
+.gitignore
+data/excel/out_int.xlsx
+data/excel/out_ret.xlsx
+data/excel/out_smz.xlsx
+data/csv/out_B.csv
+data/marc/ucla_B.mrc
